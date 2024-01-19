@@ -1,3 +1,31 @@
+/* Global */
+
+body {
+  background-color:#ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+ font-family: 'Open Sans', sans-serif;
+ font-size: 24px;
+ color: #500000;
+ font-weight: bold;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+ font-size: 14px;
+}
+
+a {
+  color: #006483;
+  text-decoration: none;
+}
+
 .tamu-featured-title {
   font-size: 20px;
   margin-left: 10px;
@@ -23,7 +51,7 @@
   max-width: 100%;
   margin: 0;
   padding: 0;
-  border:  solid 1px #b1b1b1;
+  border:  solid 1px #d1d1d1;
 }
 
 .featured_content li a {
@@ -31,11 +59,11 @@
   display: inline-block;
   max-width: 100%;
   font-size: .9em;
-  background-color: #fff;
+  background-color: #ffffff;
   padding: 10px;
   text-decoration: none;
   line-height: 1.2em;
-  border: 1px solid #ededed;
+  border: 1px solid #eaeaea;
   border-radius: 4px;
   max-height: inherit;
 }
