@@ -11,7 +11,7 @@ MINYEAR = 1500
 MAXYEAR = 2024
 
 # The number of results that will be displayed
-NUMBER = 8
+NUMBER = 4
 
 # Specific featured pages to display
 

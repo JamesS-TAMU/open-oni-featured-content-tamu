@@ -5,28 +5,29 @@ RANDOM = True
 THISDAY = False
 
 # Set to earliest year to search with THISDAY
-MINYEAR = 1900
+MINYEAR = 1500
 
 # Set to latest year to search  with THISDAY
-MAXYEAR = 1922
+MAXYEAR = 2024
 
 # The number of results that will be displayed
 NUMBER = 4
 
 # Specific featured pages to display
-PAGES = (
-          {
-              'lccn': 'sn83045350',
-              'date': '1878-01-03',
-              'edition': 1,
-              'sequence': 1,
-              'caption': 'Put a caption for your newspaper here'
-          },
-          {
-              'lccn': 'sn83045350',
-              'date': '1878-01-03',
-              'edition': 1,
-              'sequence': 1,
-              'caption': 'This is the second one'
-          },
-        )
+
+# PAGES = (
+#           {
+#               'lccn': 'sn83045350',
+#               'date': '1878-01-03',
+#               'edition': 1,
+#               'sequence': 1,
+#               'caption': 'Put a caption for your newspaper here'
+#           },
+#           {
+#               'lccn': 'sn83045350',
+#               'date': '1878-01-03',
+#               'edition': 1,
+#               'sequence': 1,
+#               'caption': 'This is the second one'
+#           },
+#         )
