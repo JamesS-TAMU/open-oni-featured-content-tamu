@@ -52,6 +52,7 @@ a {
   margin: 0;
   padding: 0;
   border:  solid 1px #d1d1d1;
+  filter: grayscale(1) brightness(1);
 }
 
 .featured_content li a {
